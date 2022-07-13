@@ -1,2 +1,3 @@
-# management-system
-Sistema de gerenciamento de projetos em Java implementado para a disciplina de Programação 2.
+# Sistema de Gerenciamento de Projetos
+
+Sistema implementado em Java para a disciplina de Programação 2.
